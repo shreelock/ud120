@@ -42,6 +42,8 @@ print "Training time :", round(t_fit_f-t_fit_i), "sec"
 print "Prediction time :", round(t_train_f-t_train_i), "sec"
 
 
+# Training time = 2.0 sec
+# Testing time = 0.0 sec
 
 #########################################################
 ### your code goes here ###
